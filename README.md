@@ -53,3 +53,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## ⭐️ Star Us
 If you like this project, please give us a star on GitHub! Your support helps us grow and improve the project.
+
+## Note
+This project was created as a practice exercise for API integration, state management, and dynamic UI development.
+
+https://roadmap.sh/projects/reddit-client
+
